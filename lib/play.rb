@@ -38,3 +38,5 @@ end
 # Define your play method below
 def play(board)
   game_counter = 0
+
+  while 

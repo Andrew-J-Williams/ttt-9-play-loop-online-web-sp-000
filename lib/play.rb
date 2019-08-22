@@ -40,3 +40,7 @@ def play(board)
   game_counter = 0
 
   while game_counter < 9
+    turn(board)
+    game_counter +=1
+  end
+end

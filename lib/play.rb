@@ -39,4 +39,4 @@ end
 def play(board)
   game_counter = 0
 
-  while 
+  while game_counter < 9
